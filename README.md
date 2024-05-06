@@ -34,51 +34,143 @@ Figma
 
 ## CODE:
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Document</title>
-</head>
-<body>
-   <div style="width: 100%; height: 100%; justify-content: flex-start; align-items: flex-start; gap: 48px; display: inline-flex">
-      <div style="width: 360px; height: 640px; position: relative; background: #08e2ff">
-          <div style="width: 300px; height: 37px; left: 47px; top: 23px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Saveetha Engineering College</div>
-          <div style="width: 300px; height: 37px; left: 20px; top: 301px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Affilated to  Anna University</div>
-          <div style="width: 290px; height: 67px; left: 30px; top: 363px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">NIRF Ranked<br/>Autonomous Institution<br/></div>
-          <div style="width: 360px; height: 0px; left: 0px; top: 75.05px; position: absolute; border: 4px #172DF5 solid"></div>
-          <img style="width: 126px; height: 126px; left: 117px; top: 117px; position: absolute" src="saveetha.jpeg" />
-          <div style="width: 223px; height: 51px; left: 69px; top: 430px; position: absolute; background: #16FB12"></div>
-          <div style="width: 179px; height: 18px; left: 86px; top: 445px; position: absolute; text-align: center; color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOGIN</div>
-      </div>
-      <div style="width: 343px; height: 640px; position: relative; background: #D5F608">
-          <div style="width: 300px; height: 37px; left: 22px; top: 26px; position: absolute; text-align: center; color: #fa1bc2; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Saveetha Engineering College</div>
-          <div style="width: 360px; height: 0px; left: -8px; top: 83.05px; position: absolute; border: 4px #172DF5 solid"></div>
-          <img style="width: 126px; height: 126px; left: 109px; top: 126px; position: absolute" src="saveetha.jpeg" />
-          <div style="width: 249px; height: 48px; left: 44px; top: 305px; position: absolute; background: #0FFEFE"></div>
-          <div style="width: 249px; height: 48px; left: 44px; top: 396px; position: absolute; background: #0FFEFE"></div>
-          <div style="width: 179px; height: 24px; left: 28px; top: 408px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Password</div>
-          <div style="width: 179px; height: 24px; left: 28px; top: 315px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">user names</div>
-          <div style="width: 140px; height: 51px; left: 95px; top: 497px; position: absolute; background: #16FB12"></div>
-          <div style="width: 179px; height: 18px; left: 75px; top: 514px; position: absolute; text-align: center; color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOGIN</div>
-      </div>
-      <div style="width: 360px; height: 640px; position: relative; background: #FF0808; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset">
-          <div style="width: 300px; height: 37px; left: 47px; top: 23px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Saveetha Engineering College</div>
-          <div style="width: 360px; height: 0px; left: 0px; top: 75.05px; position: absolute; border: 4px #172DF5 solid"></div>
-          <img style="width: 82px; height: 82px; left: 130px; top: 99px; position: absolute" src="saveetha.jpeg" />
-          <div style="width: 303px; height: 53px; left: 30px; top: 189px; position: absolute; background: #16FB12"></div>
-          <div style="width: 243px; height: 18px; left: 60px; top: 206px; position: absolute; text-align: center; color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">DEPARTMENTS</div>
-          <div style="width: 270px; height: 288px; left: 48px; top: 275px; position: absolute; background: #d68080"></div>
-          <div style="width: 179px; height: 230px; left: 90px; top: 301px; position: absolute; text-align: center; color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">CSE<br/><br/>AIDS<br/><br/>IT<br/><br/>ECE<br/><br/>EEE</div>
-      </div>
-   </div>
-</body>
-</html>
+Home Page
+
+
+<div style="width: 100%; height: 100%; position: relative; background: #0DC4CF">
+    <div style="left: 51px; top: 53px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 900; word-wrap: break-word">SAVEETHA ENGINEERING <br/>COLLEGE</div>
+    <img style="width: 132px; height: 120px; left: 227px; top: 145px; position: absolute" src="https://via.placeholder.com/132x120" />
+    <div style="width: 301px; height: 60px; left: 43px; top: 346px; position: absolute; background: #1E1E1E"></div>
+    <div style="width: 375px; height: 0px; left: 0px; top: 128px; position: absolute; border: 5px #DD29CB solid"></div>
+    <div style="width: 254px; height: 30px; left: 67px; top: 363px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">             LOGIN</div>
+    <div style="width: 249px; height: 100px; left: 72px; top: 447px; position: absolute; color: #EFFF37; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">     Or Scan to <br/>            Register</div>
+    <img style="width: 184px; height: 196px; left: 160px; top: 560px; position: absolute" src="https://via.placeholder.com/184x196" />
+</div>
+
+
+// SAVEETHA ENGINEERING <br/>COLLEGE
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 900;
+ word-wrap: break-word
+---
+//              LOGIN
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word
+---
+//      Or Scan to <br/>            Register
+color: #EFFF37;
+ font-size: 32px;
+ font-family: Inter;
+ font-weight: 800;
+ word-wrap: break-word
+
+ Page 2
+
+
+ <div style="width: 100%; height: 100%; position: relative; background: #F60BFA">
+    <div style="left: 23px; top: 14px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 900; word-wrap: break-word">SAVEETHA  <br/>ENGINEERING<br/>COLLEGE</div>
+    <div style="width: 375.01px; height: 0px; left: 0px; top: 130px; position: absolute; border: 4px #1511E2 solid"></div>
+    <img style="width: 130px; height: 124px; left: 230px; top: 147px; position: absolute" src="https://via.placeholder.com/130x124" />
+    <div style="width: 287px; height: 38px; left: 18px; top: 318px; position: absolute; color: #32EAC9; font-size: 36px; font-family: Inter; font-weight: 800; word-wrap: break-word">     Flash Mob<br/>    <br/>    </div>
+    <div style="width: 269px; height: 62px; left: 14px; top: 406px; position: absolute; color: #1E1E1E; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">   Events are..</div>
+    <div style="width: 300px; height: 76px; left: 35px; top: 482px; position: absolute; background: #32EAC9"></div>
+    <div style="width: 300px; height: 74px; left: 35px; top: 598px; position: absolute; background: #32EAC9"></div>
+    <div style="width: 300px; height: 81px; left: 35px; top: 714px; position: absolute; background: #32EAC9"></div>
+    <div style="width: 245px; height: 41px; left: 60px; top: 505px; position: absolute; color: #0B135E; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">      DJ Flash</div>
+    <div style="width: 240px; height: 44px; left: 65px; top: 614px; position: absolute; color: #0B135E; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">     Concert</div>
+    <div style="width: 242px; height: 52px; left: 63px; top: 732px; position: absolute; color: #0B135E; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">     Folk Dance</div>
+</div>
+
+// SAVEETHA  <br/>ENGINEERING<br/>COLLEGE
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 900;
+ word-wrap: break-word
+---
+//      Flash Mob<br/>    <br/>    
+color: #32EAC9;
+ font-size: 36px;
+ font-family: Inter;
+ font-weight: 800;
+ word-wrap: break-word
+---
+//    Events are..
+color: #1E1E1E;
+ font-size: 36px;
+ font-family: Inter;
+ font-weight: 700;
+ word-wrap: break-word
+---
+//       DJ Flash
+color: #0B135E;
+ font-size: 36px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 500;
+ word-wrap: break-word
+---
+//      Concert
+color: #0B135E;
+ font-size: 36px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 500;
+ word-wrap: break-word
+---
+//      Folk Dance
+color: #0B135E;
+ font-size: 36px;
+ font-family: Inter;
+ font-style: italic;
+ font-weight: 500;
+ word-wrap: break-word
+
+
+ Page 3
+
+
+ <div style="width: 100%; height: 100%; position: relative; background: #1E1E1E">
+    <div style="left: 75px; top: 21px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 900; word-wrap: break-word">SAVEETHA<br/>ENGINEERING <br/>COLLEGE</div>
+    <div style="width: 375.01px; height: 0px; left: 0px; top: 128px; position: absolute; border: 4px #FF0C0C solid"></div>
+    <img style="width: 138px; height: 135px; left: 219px; top: 161px; position: absolute" src="https://via.placeholder.com/138x135" />
+    <div style="width: 305px; height: 53px; left: -7px; top: 353px; position: absolute; color: #D638D9; font-size: 36px; font-family: Inter; font-weight: 800; word-wrap: break-word">     Winning Price</div>
+    <div style="width: 232px; height: 62px; left: 66px; top: 434px; position: absolute; color: #E4F60E; font-size: 36px; font-family: Inter; font-weight: 800; word-wrap: break-word">Cash Rewards<br/></div>
+    <img style="width: 176px; height: 220px; left: 160px; top: 549px; position: absolute" src="https://via.placeholder.com/176x220" />
+</div>
+
+
+// SAVEETHA<br/>ENGINEERING <br/>COLLEGE
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 900;
+ word-wrap: break-word
+---
+//      Winning Price
+color: #D638D9;
+ font-size: 36px;
+ font-family: Inter;
+ font-weight: 800;
+ word-wrap: break-word
+---
+// Cash Rewards<br/>
+color: #E4F60E;
+ font-size: 36px;
+ font-family: Inter;
+ font-weight: 800;
+ word-wrap: break-word
+
 ```
 
 ## OUTPUT:
-![283362350-252fd9e3-8a57-466f-bab2-59ef231df81d](https://github.com/ARAVIND23005370/Figma/assets/148514836/a5e8ba88-be15-4dc7-b8bc-5352c57c53cf)
+![Screenshot (54)](https://github.com/ARAVIND23005370/Figma/assets/148514836/b2fc06d7-49b5-475d-af1b-c16e1f8fe3af)
+
 
 
 ## RESULT:
