@@ -49,26 +49,6 @@ Home Page
 </div>
 
 
-// SAVEETHA ENGINEERING <br/>COLLEGE
-color: white;
- font-size: 24px;
- font-family: Inter;
- font-weight: 900;
- word-wrap: break-word
----
-//              LOGIN
-color: white;
- font-size: 24px;
- font-family: Inter;
- font-weight: 600;
- word-wrap: break-word
----
-//      Or Scan to <br/>            Register
-color: #EFFF37;
- font-size: 32px;
- font-family: Inter;
- font-weight: 800;
- word-wrap: break-word
 
  Page 2
 
@@ -87,50 +67,6 @@ color: #EFFF37;
     <div style="width: 242px; height: 52px; left: 63px; top: 732px; position: absolute; color: #0B135E; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 500; word-wrap: break-word">     Folk Dance</div>
 </div>
 
-// SAVEETHA  <br/>ENGINEERING<br/>COLLEGE
-color: white;
- font-size: 24px;
- font-family: Inter;
- font-weight: 900;
- word-wrap: break-word
----
-//      Flash Mob<br/>    <br/>    
-color: #32EAC9;
- font-size: 36px;
- font-family: Inter;
- font-weight: 800;
- word-wrap: break-word
----
-//    Events are..
-color: #1E1E1E;
- font-size: 36px;
- font-family: Inter;
- font-weight: 700;
- word-wrap: break-word
----
-//       DJ Flash
-color: #0B135E;
- font-size: 36px;
- font-family: Inter;
- font-style: italic;
- font-weight: 500;
- word-wrap: break-word
----
-//      Concert
-color: #0B135E;
- font-size: 36px;
- font-family: Inter;
- font-style: italic;
- font-weight: 500;
- word-wrap: break-word
----
-//      Folk Dance
-color: #0B135E;
- font-size: 36px;
- font-family: Inter;
- font-style: italic;
- font-weight: 500;
- word-wrap: break-word
 
 
  Page 3
@@ -146,26 +82,7 @@ color: #0B135E;
 </div>
 
 
-// SAVEETHA<br/>ENGINEERING <br/>COLLEGE
-color: white;
- font-size: 24px;
- font-family: Inter;
- font-weight: 900;
- word-wrap: break-word
----
-//      Winning Price
-color: #D638D9;
- font-size: 36px;
- font-family: Inter;
- font-weight: 800;
- word-wrap: break-word
----
-// Cash Rewards<br/>
-color: #E4F60E;
- font-size: 36px;
- font-family: Inter;
- font-weight: 800;
- word-wrap: break-word
+
 
 ```
 
